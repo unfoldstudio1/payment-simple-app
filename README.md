@@ -20,11 +20,13 @@ composer install
 
 ## 🚀 Running the App
 
-Provide a file with transactions, one per line in JSON:
+Install the dependencies(if not already installed):
 
 ```bash
 composer install
 ```
+
+Provide a file with transactions, one per line in JSON:
 
 ```json
 {"bin":"45717360","amount":"100.00","currency":"EUR"}
