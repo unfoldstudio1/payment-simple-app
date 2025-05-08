@@ -22,6 +22,10 @@ composer install
 
 Provide a file with transactions, one per line in JSON:
 
+```bash
+composer install
+```
+
 ```json
 {"bin":"45717360","amount":"100.00","currency":"EUR"}
 ```
